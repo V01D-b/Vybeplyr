@@ -1,0 +1,13 @@
+{
+  "name": "VYBE — Your personal music space",
+  "short_name": "VYBE",
+  "description": "A private music library for local audio and YouTube videos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0b10",
+  "theme_color": "#0b0b10",
+  "icons": [
+    { "src": "app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

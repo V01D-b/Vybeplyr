@@ -1,0 +1,12 @@
+{
+  "name": "vybe-ultimate-music-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first music player for browser-supported audio files and YouTube video references.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
